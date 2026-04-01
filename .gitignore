@@ -1,0 +1,65 @@
+# ================== #
+# Unity Generated    #
+# ================== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+UnityGenerated/
+Assets/AssetStoreTools*
+Assets/StreamingAssets/
+[Aa]ssets/[Ss]treamingAssets/aa.meta
+[Aa]ssets/[Ss]treamingAssets/aa/
+/[Uu]ser[Ss]ettings/
+/Assets/FR2_Cache.asset
+/Assets/FR2_Cache.asset.meta
+
+# ================================= #
+# Project-Specific Asset Exclusions #
+# ================================= #
+Assets/Drag/
+Assets/Drag.*
+Assets/VsCode*
+Assets/Test*
+Assets/UnityVS*
+
+# ==================== #
+# IDE & Editor         #
+# ==================== #
+ExportedObj/
+/.idea/
+.vscode/
+.vs/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+!/Packages/**/*.csproj
+!/Packages/**/*.sln
+
+# ==================== #
+# Build & Packages     #
+# ==================== #
+Build/
+Packages/**/bin/
+Credentials/
+
+# ==================== #
+# OS Generated         #
+# ==================== #
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# ==================== #
+# Misc                 #
+# ==================== #
+*.apk
+*.keystore
+*.log
+*.*~
+crashlytics-build.properties
