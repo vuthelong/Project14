@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "com.harumak.unityscreennavigator": "https://github.com/Haruma-K/UnityScreenNavigator.git?path=/Assets/UnityScreenNavigator",
+    "com.unity.addressables": "2.9.1",
     "com.unity.ai.navigation": "2.0.11",
     "com.unity.collab-proxy": "2.11.4",
     "com.unity.ide.rider": "3.0.39",
@@ -11,6 +13,7 @@
     "com.unity.timeline": "1.8.11",
     "com.unity.ugui": "2.0.0",
     "com.unity.visualscripting": "1.9.10",
+    "com.zbase.csv-reader": "https://github.com/Zitga-Tech/ZBase.Csv-Reader.git?path=/Packages/ZBase.CsvReader",
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.adaptiveperformance": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
